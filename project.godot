@@ -85,6 +85,14 @@ p2_block={
 ]
 }
 
+[layer_names]
+
+2d_physics/layer_1="World/Environment"
+2d_physics/layer_2="Player 1"
+2d_physics/layer_3="player 2"
+2d_physics/layer_4="p1_hitbox"
+2d_physics/layer_5="p2_hitbox"
+
 [physics]
 
 3d/physics_engine="Jolt Physics"
