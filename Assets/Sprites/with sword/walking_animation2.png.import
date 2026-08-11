@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dpt7ffdvd3mby"
-path="res://.godot/imported/64aca3db-88c1-4649-9940-ea001a2e518f.png-448405780ff4c8d22496da1c4b2de901.ctex"
+uid="uid://dwq0pan7muryn"
+path="res://.godot/imported/walking_animation2.png-6c4955488a70fa436dd2a2b9229591c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://Assets/Sprites/64aca3db-88c1-4649-9940-ea001a2e518f.png"
-dest_files=["res://.godot/imported/64aca3db-88c1-4649-9940-ea001a2e518f.png-448405780ff4c8d22496da1c4b2de901.ctex"]
+source_file="res://Assets/Sprites/with sword/walking_animation2.png"
+dest_files=["res://.godot/imported/walking_animation2.png-6c4955488a70fa436dd2a2b9229591c3.ctex"]
 
 [params]
 
