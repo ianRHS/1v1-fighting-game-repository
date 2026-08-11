@@ -1,3 +1,4 @@
 # 1v1 fighting game repository
 This is my game for dgt assessment
-hello guys this is my test to see if this is connected to my github
+A simple player vs player fighting game with samurai characters set in feudal japan
+
